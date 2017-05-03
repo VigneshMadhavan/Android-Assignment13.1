@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A13.1</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="delete_contacts">Delete Contacts</string>
+</resources>
